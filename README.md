@@ -1,4 +1,6 @@
-## Hi there 👋
+# YoungJae Jo (co2plant) 👋
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=co2plant)](https://solved.ac/profile/co2plant)
 
 <!--
 **co2plant/co2plant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
