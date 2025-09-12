@@ -1,4 +1,5 @@
 # YoungJae Jo (co2plant) 👋
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=co2plant)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=co2plant)](https://solved.ac/profile/co2plant)
 
