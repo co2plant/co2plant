@@ -1,5 +1,15 @@
 # YoungJae Jo (co2plant) 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=co2plant)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
+<div align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minijee&utm_content=farm">
+  <img
+    src="https://render.gitanimals.org/farms/co2plant"
+    width="600"
+    height="300"
+  />
+  </a>
+</div>
+<br><br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=co2plant)](https://solved.ac/profile/co2plant)
 
