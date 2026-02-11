@@ -1,5 +1,6 @@
 # YoungJae Jo (co2plant) 👋
 <br><br>
+<div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minijee&utm_content=farm">
   <img
     src="https://render.gitanimals.org/farms/co2plant"
@@ -7,10 +8,14 @@
     height="300"
   />
   </a>
+</div>
+
 <br><br>
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=co2plant)](https://solved.ac/profile/co2plant)
+<div align="center">
+  <a href="https://solved.ac/profile/co2plant">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=co2plant" />
+  </a>
+</div>
 <!--
 **co2plant/co2plant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
